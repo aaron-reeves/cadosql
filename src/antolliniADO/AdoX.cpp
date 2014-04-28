@@ -7,7 +7,7 @@
 //
 // MODIFICATIONS
 // AUTHOR: Aaron Reeves
-// mailto: aaron@aaronreeves.com
+// mailto: development@reevesdigital.com
 // Date: 7/28/04
 // Version: 1.02.2AR
 

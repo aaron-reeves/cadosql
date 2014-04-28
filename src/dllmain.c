@@ -6,7 +6,7 @@ Last revision: $Date: 2011-10-25 05:13:58 $ $Author: areeves $
 Version number: $Revision: 1.3 $
 Project: cadosql.dll
 Website: http://www.aaronreeves.com/cadosql
-Author: Aaron Reeves <aaron@aaronreeves.com>
+Author: Aaron Reeves <development@reevesdigital.com>
 ----------------------------------------------------
 Copyright (C) 2007 by Aaron Reeves
 
